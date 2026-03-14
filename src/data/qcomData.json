@@ -1,0 +1,61 @@
+{
+  "company": {
+    "name": "Qualcomm Incorporated",
+    "ticker": "QCOM",
+    "industry": "Semiconductors",
+    "lifecycle": "Mature Growth",
+    "overview": "Qualcomm is a global leader in mobile chipsets, 5G connectivity, and technology licensing. It is currently diversifying into automotive, IoT, and AI edge computing.",
+    "tam": "$620B (Global Semiconductor TAM 2025)",
+    "competitiveAdvantages": [
+      "Largest 5G/6G SEP portfolio globally",
+      "40+ years of SoC design expertise",
+      "Snapdragon ecosystem lock-in",
+      "TSMC manufacturing partnership"
+    ],
+    "strategicPositioning": "Premium Integrated Leader"
+  },
+  "financials": {
+    "incomeStatement": [
+      { "year": "2022", "revenue": 44200, "ebit": 15860, "netIncome": 12936 },
+      { "year": "2023", "revenue": 35820, "ebit": 7788, "netIncome": 7232 },
+      { "year": "2024", "revenue": 38962, "ebit": 10071, "netIncome": 10142 },
+      { "year": "2025", "revenue": 44284, "ebit": 12355, "netIncome": 5541 }
+    ],
+    "balanceSheet": {
+      "totalAssets": 50143,
+      "totalDebt": 14811,
+      "totalEquity": 21206,
+      "cash": 7843
+    },
+    "cashFlow": {
+      "cfo": 14012,
+      "capex": 1192,
+      "fcff": 10625
+    }
+  },
+  "segments": [
+    { "name": "QCT Handsets", "revenue": 27793, "share": 62 },
+    { "name": "QCT Automotive", "revenue": 3957, "share": 9 },
+    { "name": "QCT IoT", "revenue": 6617, "share": 15 },
+    { "name": "QTL Licensing", "revenue": 5582, "share": 13 },
+    { "name": "Other", "revenue": 335, "share": 1 }
+  ],
+  "valuation": {
+    "base": {
+      "revenueGrowth": 7.0,
+      "ebitMargin": 28.5,
+      "taxRate": 14.0,
+      "salesToCapital": 5.0,
+      "wacc": 10.2,
+      "terminalGrowth": 4.0
+    }
+  },
+  "industry": {
+    "trends": [
+      "AI Edge Computing explosion",
+      "Automotive electrification and ADAS ramp",
+      "5G handset refresh cycle",
+      "Geopolitical supply chain diversification"
+    ]
+  }
+}
